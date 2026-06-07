@@ -32,7 +32,6 @@ public class ProductService {
         return "Product not found\nNo deletion performed";
     }
 
-    // Optional debug method
     public HashMap<Integer, Product> getAllProducts() {
         return productMap;
     }
