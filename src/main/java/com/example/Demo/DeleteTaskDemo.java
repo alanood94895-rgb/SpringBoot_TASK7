@@ -13,9 +13,10 @@ public class DeleteTaskDemo {
         System.out.println("Initial Task List:");
         for (String task : tasks) {
             System.out.println("- " + task);
-
-
         }
+
+        String targetTask = "Call doctor";
+        boolean found = false;
 
     }
 
