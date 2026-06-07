@@ -59,7 +59,6 @@ public class RegistrationService {
         );
     }
 
-    // Optional endpoint support
     public Map<Integer, EventRegistration> getAllRegistrations() {
         return registrations;
     }
