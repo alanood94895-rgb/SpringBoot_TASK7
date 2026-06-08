@@ -1,5 +1,7 @@
 package com.example.Demo;
 
+import com.example.Demo.Entities.BulkDeleteResponse;
+import com.example.Demo.Entities.EventRegistration;
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Service;
 

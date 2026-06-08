@@ -1,5 +1,7 @@
 package com.example.Demo;
 
+import com.example.Demo.Entities.LibraryMember;
+
 import java.util.ArrayList;
 
 public class LibraryManager {

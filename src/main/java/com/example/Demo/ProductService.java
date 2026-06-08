@@ -1,5 +1,6 @@
 package com.example.Demo;
 
+import com.example.Demo.Entities.Product;
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Service;
 
