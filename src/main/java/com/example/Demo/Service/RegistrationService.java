@@ -19,20 +19,15 @@ public class RegistrationService {
     @PostConstruct
     public void initializeData() {
 
-        registrations.put(101,
-                new EventRegistration(101, "Ahmed"));
+        registrations.put(101, new EventRegistration(101, "Ahmed"));
 
-        registrations.put(102,
-                new EventRegistration(102, "Sara"));
+        registrations.put(102, new EventRegistration(102, "Sara"));
 
-        registrations.put(103,
-                new EventRegistration(103, "John"));
+        registrations.put(103, new EventRegistration(103, "John"));
 
-        registrations.put(104,
-                new EventRegistration(104, "Ali"));
+        registrations.put(104, new EventRegistration(104, "Ali"));
 
-        registrations.put(105,
-                new EventRegistration(105, "Fatima"));
+        registrations.put(105, new EventRegistration(105, "Fatima"));
     }
 
     public BulkDeleteResponse deleteMultipleByIds(List<Integer> ids) {
