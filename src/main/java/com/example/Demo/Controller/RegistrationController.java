@@ -1,4 +1,4 @@
-package com.example.Demo;
+package com.example.Demo.Controller;
 
 import com.example.Demo.Entities.BulkDeleteResponse;
 import com.example.Demo.Service.RegistrationService;
