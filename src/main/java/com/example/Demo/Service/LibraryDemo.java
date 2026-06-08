@@ -1,4 +1,4 @@
-package com.example.Demo;
+package com.example.Demo.Service;
 
 public class LibraryDemo {
     public static void main(String[] args) {
